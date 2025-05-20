@@ -3,10 +3,10 @@
     "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc#key-0"
   ],
   "service": [],
-  "id": "did:web:mosip.github.io:inji-config:vc-local-ed25519",
+  "id": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkiWpS47TohcovbUkPAng48XrUansMusFMzmefBoeDMS1n",
+      "publicKeyMultibase": "z6MkupKPd3nqdXJ7wqFLXqLmAsRebrmzNwN6pkZVymRYfuKK",
       "controller": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc",
       "id": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc#key-0",
       "type": "Ed25519VerificationKey2020",
