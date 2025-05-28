@@ -6,7 +6,7 @@
   "id": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkfZi5WnWdsChrWwaXToGQUDAQ94SfaEGFTUSyw7yJnwYW",
+      "publicKeyMultibase": "z6MkfRvDeoGR2DVEhZif5MLLghjNWAwPJp6eWTqm9jrmBTPV",
       "controller": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc",
       "id": "did:web:shivamg9.github.io:my-inji-dids:local-farmer-vc#key-0",
       "type": "Ed25519VerificationKey2020",
